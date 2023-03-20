@@ -1,0 +1,2 @@
+[09-Dec-2021 16:03:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/f1303363/public_html/comp1230/assignments/assignment4/vendor/composer/platform_check.php on line 24
+[09-Dec-2021 16:03:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/f1303363/public_html/comp1230/assignments/assignment4/vendor/composer/platform_check.php on line 24
